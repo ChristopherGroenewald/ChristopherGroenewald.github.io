@@ -2,6 +2,9 @@
     text-align: center;
     align-items: center;
 }
+p {
+    font-size: 20px;
+}
 
 .navbar{
     display: block;
@@ -21,4 +24,10 @@ body{
 a{
     color: rgb(2, 11, 19);
     text-decoration: none;
+    
 }
+
+a:hover {
+    color: blue;
+}
+
