@@ -6,6 +6,12 @@ p {
     font-size: 20px;
 }
 
+
+
+#navbar-outline{
+    background-color:  rgb(41, 36, 36);
+}
+
 .navbar{
     display: block;
     padding: 20px;
@@ -14,20 +20,21 @@ p {
     justify-content: space-between;
     margin-left: 1000px;
     margin-right: 100px;
+    
 }
 
 body{
-    background-color: rgb(231, 215, 215);
-    
+    background-color: rgb(16, 15, 15);
+    color: rgb(111, 140, 167);
 }
 
 a{
-    color: rgb(2, 11, 19);
+    color: rgb(98, 163, 219);
     text-decoration: none;
-    
 }
 
 a:hover {
-    color: blue;
+    color: rgb(56, 56, 104);
 }
+
 
