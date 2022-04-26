@@ -13,14 +13,13 @@ p {
 }
 
 .navbar{
-    display: block;
     padding: 20px;
     align-items: center;
     display: flex;
     justify-content: space-between;
-    margin-left: 1000px;
+    margin-left: 100px;
     margin-right: 100px;
-    
+    overflow: hidden;
 }
 
 body{
@@ -37,4 +36,6 @@ a:hover {
     color: rgb(56, 56, 104);
 }
 
-
+.button{
+    size: 100px;
+}
